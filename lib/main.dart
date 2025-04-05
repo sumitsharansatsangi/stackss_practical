@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:stackss_practical/models/controller.dart';
 import 'package:stackss_practical/screen/home_page.dart';
@@ -33,7 +32,7 @@ class MyApp extends HookConsumerWidget {
 class MyHomePage extends HookConsumerWidget {
   MyHomePage({super.key});
 
-  int _selectedIndex = 0;
+  // int _selectedIndex = 0;
 
   final List<Widget> _children = [
     Home(),

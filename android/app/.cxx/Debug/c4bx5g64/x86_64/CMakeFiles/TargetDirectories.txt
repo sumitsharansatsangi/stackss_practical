@@ -1,0 +1,2 @@
+/home/sumit/AndroidStudioProjects/stackss_practical/android/app/.cxx/Debug/c4bx5g64/x86_64/CMakeFiles/edit_cache.dir
+/home/sumit/AndroidStudioProjects/stackss_practical/android/app/.cxx/Debug/c4bx5g64/x86_64/CMakeFiles/rebuild_cache.dir
